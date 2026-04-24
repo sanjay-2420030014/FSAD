@@ -1,0 +1,6 @@
+com\klh\model\Course.class
+com\klh\service\CourseService.class
+com\klh\controller\CourseController.class
+com\klh\repository\CourseRepository.class
+com\klh\SpringloCrudApplication.class
+com\klh\service\CourseServiceImpl.class
